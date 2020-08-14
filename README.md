@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 <p align="center"> I'am Felipe, a Full-stack developer and data scientist who specializes in Ruby, RoR, and Javascript.
 Passionate about designing elegant web applications that create simple solutions to complex problems.</p>
 
-<h5 align="center">Contact me on <a href="https://www.linkedin.com/in/felipe-enne/">LinkedIn</a> or <a href="https://angel.co/u/felipe-enne-mendes-ribeiro">AngelList</a></h5>
+<h4 align="center">Contact me on <a href="https://www.linkedin.com/in/felipe-enne/">LinkedIn</a> or <a href="https://angel.co/u/felipe-enne-mendes-ribeiro">AngelList</a></h4>
