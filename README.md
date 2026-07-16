@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"> Full-stack developer and data scientist who specializes in JavaScript, React, Python, Node.js. Passionate about designing elegant web applications that create simple solutions to complex problems. I'm currently having a new challenge to change a little area, I'm working as a data analyst in the logistics area in a large company.</p>
+<p align="center"> Full Stack Developer with 5+ years of experience building web applications, REST APIs, internal tools, automations, and integrations using JavaScript, TypeScript, Node.js, React, Python, PostgreSQL, MongoDB, and Salesforce. Experienced in production support, payment flows, log analysis, process automation, and freelance delivery through Workana and independent projects.</p>
 
-<h4 align="center">Contact me on <a href="https://www.linkedin.com/in/felipe-enne/">LinkedIn</a> or <a href="https://angel.co/u/felipe-enne-mendes-ribeiro">AngelList</a></h4>
+<h4 align="center">Contact me on <a href="https://www.linkedin.com/in/felipe-enne/">LinkedIn</a></h4>
