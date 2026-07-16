@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 <p align="center"> Full Stack Developer with 5+ years of experience building web applications, REST APIs, internal tools, automations, and integrations using JavaScript, TypeScript, Node.js, React, Python, PostgreSQL, MongoDB, and Salesforce. Experienced in production support, payment flows, log analysis, process automation, and freelance delivery through Workana and independent projects.</p>
 
-<h4 align="center">Contact me on <a href="https://www.linkedin.com/in/felipe-enne/">LinkedIn</a></h4>
+<h4 align="center">Contact me on <a href="https://www.linkedin.com/in/felipe-enne/">LinkedIn</a>.</h4>
